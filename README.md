@@ -6,6 +6,7 @@ Setup guidance:
 * Maven v3
 * Git v2.7.4
 * Eclipse 4.7 Oxygen
+* Clone/Build in Local Maven Repo https://github.com/stephenc/mongodb-maven-plugin
 
 In Eclipse 4.7 Oxygen, do the following steps in the toolbar
 * Windows -> Preferences -> Java -> Installed JREs -> Add -> JDK8 (root installation folder)
